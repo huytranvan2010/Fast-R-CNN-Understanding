@@ -110,5 +110,7 @@ Như vậy chúng ta đã cùng tìm hiểu về mô hình Fast R-CNN. Hy vọng
 1. https://arxiv.org/abs/1504.08083
 2. https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html
 3. https://towardsdatascience.com/understanding-fast-r-cnn-and-faster-r-cnn-for-object-detection-adbb55653d97
+4. https://towardsdatascience.com/fast-r-cnn-for-object-detection-a-technical-summary-a0ff94faa022
+5. https://www.youtube.com/watch?v=UF4YqCE_1UA&list=PLANbacZNzD9HEbQ-CkACLyAqC3f0U9Plp&index=5
 
 
